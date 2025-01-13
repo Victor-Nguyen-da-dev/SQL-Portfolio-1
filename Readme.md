@@ -51,7 +51,7 @@ ORDER BY
 LIMIT 10
 ```
 
-![Average Salary Distribution of the Top 10 Paying Data Analyst Jobs in 2023](<../SQL data visualization/1.Average Salary Distribution of the Top 10 Paying Data Analyst Jobs in 2023.png>)
+![Average Salary Distribution of the Top 10 Paying Data Analyst Jobs in 2023](<SQL data visualization/1.Average Salary Distribution of the Top 10 Paying Data Analyst Jobs in 2023.png>)
 *Bar graph visualizing the salary distribution of the top 10 Data Analyst Jobs, produced using Python*
 
 Here's the breakdown of the top data analyst jobs in 2023:
@@ -91,8 +91,8 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-![Skill Count for Top 10 Paying Data Analyst Roles in 2023](<../SQL data visualization/2.Skill Count for Top 10 Paying Data Analyst Roles in 2023.png>)     
-*Bar graph visualizing the frequencies of demanded skills of the top 10 Data Analyst Jobs, produced using Python*
+ ![Skill Count for Top 10 Paying Data Analyst Roles in 2023](<SQL data visualization/2.Skill Count for Top 10 Paying Data Analyst Roles in 2023.png>)   
+ *Bar graph visualizing the frequencies of demanded skills of the top 10 Data Analyst Jobs, produced using Python*
 
 
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023:
